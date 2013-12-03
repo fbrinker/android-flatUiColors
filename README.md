@@ -3,7 +3,8 @@ android-flatUiColors
 
 Android Colors for Flat UI Design
 
-Colors by [flatuicolors.com](http://www.flatuicolors.com/)
+Colors: [flatuicolors.com](http://www.flatuicolors.com/)
+Page: http://fbrinker.github.io/android-flatUiColors/
 
 1. Overview
 2. Installation
